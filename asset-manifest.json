@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PortalNews/static/css/main.b561c8bc.chunk.css",
+    "main.js": "/PortalNews/static/js/main.903a3639.chunk.js",
+    "main.js.map": "/PortalNews/static/js/main.903a3639.chunk.js.map",
+    "runtime-main.js": "/PortalNews/static/js/runtime-main.1e2e814b.js",
+    "runtime-main.js.map": "/PortalNews/static/js/runtime-main.1e2e814b.js.map",
+    "static/js/2.bc83396d.chunk.js": "/PortalNews/static/js/2.bc83396d.chunk.js",
+    "static/js/2.bc83396d.chunk.js.map": "/PortalNews/static/js/2.bc83396d.chunk.js.map",
+    "static/js/3.3b90bbfe.chunk.js": "/PortalNews/static/js/3.3b90bbfe.chunk.js",
+    "static/js/3.3b90bbfe.chunk.js.map": "/PortalNews/static/js/3.3b90bbfe.chunk.js.map",
+    "index.html": "/PortalNews/index.html",
+    "static/css/main.b561c8bc.chunk.css.map": "/PortalNews/static/css/main.b561c8bc.chunk.css.map",
+    "static/js/2.bc83396d.chunk.js.LICENSE.txt": "/PortalNews/static/js/2.bc83396d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e2e814b.js",
+    "static/js/2.bc83396d.chunk.js",
+    "static/css/main.b561c8bc.chunk.css",
+    "static/js/main.903a3639.chunk.js"
+  ]
+}
